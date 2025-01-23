@@ -5,22 +5,22 @@ Este repositório contém os materiais e exercícios do curso de Python da Hasta
 
 ## Conteúdo
 * **Módulo 1:** Seus primeiros programas em Python 
-    * 1 - Primeiros Códigos em Python
-    * 2 - Operações Básicas
-    * 3 - Ordem das operações em Python
-    * 4 - Operações com texto(String)
-    * 5 - Variáveis
-    * 6 - Dica: Erro comum com variáveis no Jupyter
-    * 7 - Input
-    * 8 - Dica: Erro comum com input no Jupyter
-    * 9 - Os arquivos do jupyter e como abrir nossos arquivos
-    * 10 - Exercícios e alguns informações do Jupyter
-    * 11 - Gabarito comentado dos Exercícios
-    * 12 - Dica: Erro comum do print, cuidado !
-* **Módulo 2:** Funções e módulos
-    * Definindo funções
-    * Passando argumentos
-    * Importando módulos
+    *  Primeiros Códigos em Python
+    *  Operações Básicas
+    *  Ordem das operações em Python
+    *  Operações com texto(String)
+    *  Variáveis
+    *  Input
+    *  Os arquivos do jupyter e como abrir nossos arquivos
+    *  Exercícios e alguns informações do Jupyter
+    
+    
+* **Módulo 2:** Mais sobre Variáveis
+    * Tipos de Variáveis
+    * misturando tipos de variáveis
+    * Comando Format
+    * Fstring e mudança de tipos de variáveis
+    
 * ... (adicione os demais módulos do curso)
 
 ## Como Contribuir
