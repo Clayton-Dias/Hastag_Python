@@ -11,15 +11,14 @@ Este repositório contém os materiais e exercícios do curso de Python da Hasta
     *  Operações com texto(String)
     *  Variáveis
     *  Input
-    *  Os arquivos do jupyter e como abrir nossos arquivos
-    *  Exercícios e alguns informações do Jupyter
-    
+    *  Exercícios    
     
 * **Módulo 2:** Mais sobre Variáveis
     * Tipos de Variáveis
-    * misturando tipos de variáveis
-    * Comando Format
+    * Misturando tipos de variáveis
+    * Método Format
     * Fstring e mudança de tipos de variáveis
+    * Exercícios
     
 * ... (adicione os demais módulos do curso)
 
