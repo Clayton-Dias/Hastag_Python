@@ -20,6 +20,15 @@ Este repositório contém os materiais e exercícios do curso de Python da Hasta
     * Fstring e mudança de tipos de variáveis
     * Exercícios
     
+* **Módulo 3:** If - Condições em Python
+    * Estrutura do If - Else
+    * Blocos e indentação - If dentro de if
+    * Elif
+    * Comparadores
+    * And e Or
+    * Exercícios
+
+
 * ... (adicione os demais módulos do curso)
 
 ## Como Contribuir
